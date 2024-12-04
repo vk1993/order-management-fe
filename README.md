@@ -1,2 +1,2 @@
-# order-management-fe
+# product-management-fe
 Order Management FrontEnd
